@@ -1,10 +1,13 @@
 ## Тесты:
 
-### 1. RideCleansingExercise ![image](https://github.com/Vladq770/BD/assets/90763204/5e15beca-7ecd-4c0b-b4d2-2c7e8b950a12)
+### 1. RideCleansingExercise
+![image](https://github.com/user-attachments/assets/249bb1fd-0b8d-49cb-ab82-810ba55ae241)
 
-### 2. RidesAndFaresExercise ![image](https://github.com/Vladq770/BD/assets/90763204/c923cd0d-5aa3-49ea-bfb7-79a302c1b15f)
+### 2. RidesAndFaresExercise ![image](https://github.com/user-attachments/assets/ab7590c2-3d12-4759-b625-53ee6c63259e)
 
-### 3. HourlyTipsExerxise ![image](https://github.com/Vladq770/BD/assets/90763204/b61c3da9-9c4a-4354-9268-5a8cc30ff34f)
 
-### 4. ExpiringStateExercise ![image](https://github.com/Vladq770/BD/assets/90763204/54478399-7748-4ca2-9f48-064632d75148)
+### 3. HourlyTipsExerxise ![image](https://github.com/user-attachments/assets/cf7ee0e8-6fb0-48d6-b7ae-6c8c44a05402)
+
+
+### 4. ExpiringStateExercise ![image](https://github.com/user-attachments/assets/622c3029-ca8c-4f92-8cd0-4ead776bb740)
 
